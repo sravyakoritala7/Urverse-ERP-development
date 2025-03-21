@@ -1,0 +1,22 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #160101;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+.adddata{
+    margin-bottom: 0px;
+    margin-right: 20px;
+    align-items: end;
+    
+}
